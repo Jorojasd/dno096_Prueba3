@@ -4,7 +4,7 @@
         "precio": "$5.900",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/8d980481-5845-460d-9c2a-5b0a7286ff92",
-        "fotos": ["lata-1.jpg", "papas-2.jpg", "san-3.jpg"],
+        "fotos": ["san3-1.jpg", "papas-2.jpg", "latapepsi-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Pechuga de pollo con queso cheddar, cebolla crispy, tocino y salsa bbq. Acompañado de papas y bebida."
     },
@@ -13,7 +13,7 @@
         "precio": "$4.500",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/ff6652a6-a157-46c4-8c14-02f1d31b08e8",
-        "fotos": ["lata.jpg", "papas.jpg", "San-2.jpg"],
+        "fotos": ["san2-1.jpg", "papas-2.jpg", "latafanta-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Doble pechuga de pollo con lechuga, tomate, queso cheddar y salsas. Acompañado de papas y bebida."
     },
@@ -22,7 +22,7 @@
         "precio": "$5.100",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/2a2f1446-d402-4250-9ec6-390e80422d75",
-        "fotos": ["lata.jpg", "papas.jpg", "San-1.jpg"],
+        "fotos": ["san1-1.jpg", "papas-2.jpg", "latasprite-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Pechuga de pollo con pepinillos, salsa especial y mayonesa. Acompañado de papas y bebida."
     },
@@ -31,7 +31,7 @@
         "precio": "$10.990",
         "signo": "Baldes",
         "foto": "https://github.com/user-attachments/assets/5ab83c57-943f-45ef-b90a-8ac6d24b29ab",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["presas-1.jpg", "papas-2.jpg", "lata7up-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "8 Presas de pollo con 3 bebidas, papas y empanadas."
     },
@@ -40,7 +40,7 @@
         "precio": "$6.500",
         "signo": "Baldes",
         "foto": "https://github.com/user-attachments/assets/6ea2eb7a-708b-43ec-8218-989fd3488ade",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["popcorn-1.jpg", "papas-2.jpg", "latapepsi-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Trozos de pechuga de pollo apanados acompañados de dos papas y bebidas."
     },
@@ -49,7 +49,7 @@
         "precio": "$9.990",
         "signo": "Baldes",
         "foto": "https://github.com/user-attachments/assets/9e59761f-b2b0-4dee-96fe-077c0e58ea5b",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["alitas-1.jpg", "papas-2.jpg", "latapepsilight-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "8 Alitas de pollo con dos bebidas y papas."
     },
@@ -58,7 +58,7 @@
         "precio": "$12.990",
         "signo": "Baldes",
         "foto": "https://github.com/user-attachments/assets/b97b8f92-2b5b-4c71-9e30-6fa5477ef8ec",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["alitasstrips.jpg", "papas-2.jpg", "latafanta-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "4 Alitas + 4 Strips con dos bebidas y papas."
     },
@@ -67,7 +67,7 @@
         "precio": "$11.590",
         "signo": "Strips",
         "foto": "https://github.com/user-attachments/assets/b8120268-f0f2-4d8f-acc7-4ab9ccd9b6c6",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["strips-1.jpg", "papas-2.jpg", "latakem-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "12 Chicken Strips con papas y empanadas."
     },
@@ -76,7 +76,7 @@
         "precio": "$17.890",
         "signo": "Presas",
         "foto": "https://github.com/user-attachments/assets/af2b2537-da5d-4ab8-a3a8-0dd5f2fe7970",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["alitaspresasstrips-1", "papas-2.jpg", "lata7up-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "6 Chicken Strips + 5 Presas + 4 Alitas acompañadas de 4 bebidas, papas y empanadas."
     },
