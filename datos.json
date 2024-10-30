@@ -2,7 +2,7 @@
     {
         "nombre": "Sandwich 3",
         "precio": "$5.900",
-        "signo": "Combo Sandwich",
+        "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/8d980481-5845-460d-9c2a-5b0a7286ff92",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
@@ -11,7 +11,7 @@
     {
         "nombre": "Sandwich 2",
         "precio": "$4.500",
-        "signo": "Combo Sandwich",
+        "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/ff6652a6-a157-46c4-8c14-02f1d31b08e8",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
@@ -20,7 +20,7 @@
     {
         "nombre": "Sandwich 1",
         "precio": "$5.100",
-        "signo": "Combo Sandwich",
+        "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/2a2f1446-d402-4250-9ec6-390e80422d75",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
