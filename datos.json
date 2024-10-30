@@ -85,6 +85,7 @@
         "precio": "$1.100",
         "signo": "Agregados",
         "foto": "https://github.com/user-attachments/assets/29450809-df83-40b7-a064-58903810e127",
+        "fotos": ["ketchup-1.jpg", "mayo-2.jpg", "mostaza-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Porción de papas individual."
     },
@@ -93,14 +94,16 @@
         "precio": "$2.590",
         "signo": "Agregados",
         "foto": "https://github.com/user-attachments/assets/f6c53d85-0178-4825-b744-e7f803954c9c",
+        "fotos": ["oreo-1.jpg", "mym-2.jpg", "manjar-3.jpg"],
         "github": "https://github.com/JorojasD",
-        "descr": "Helado de crema con salsa de manjar y trozos de crocantes galletas."
+        "descr": "Helado de crema con salsa de manjar, trozos de galletas o m&m."
     },
     {
         "nombre": "Popcorn",
         "precio": "$1.790",
         "signo": "Agregados",
         "foto": "https://github.com/user-attachments/assets/04bbf241-1e23-4eaa-b965-20cde2513238",
+        "fotos": ["salsa-1.jpg", "salsa-2.jpg", "salsa-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Trozos de pechuga de pollo apanada."
     }
