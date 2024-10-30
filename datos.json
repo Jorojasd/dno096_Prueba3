@@ -4,7 +4,7 @@
         "precio": "$5.900",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/8d980481-5845-460d-9c2a-5b0a7286ff92",
-        "fotos": ["lata.jpg", "papas.jpg", "San-3.jpg"],
+        "fotos": ["lata-1.jpg", "papas-2.jpg", "san-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Pechuga de pollo con queso cheddar, cebolla crispy, tocino y salsa bbq. Acompañado de papas y bebida."
     },
