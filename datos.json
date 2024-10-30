@@ -4,7 +4,7 @@
         "precio": "$5.900",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/8d980481-5845-460d-9c2a-5b0a7286ff92",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["lata.jpg", "papas.jpg", "San-3.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Pechuga de pollo con queso cheddar, cebolla crispy, tocino y salsa bbq. Acompañado de papas y bebida."
     },
@@ -13,7 +13,7 @@
         "precio": "$4.500",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/ff6652a6-a157-46c4-8c14-02f1d31b08e8",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["lata.jpg", "papas.jpg", "San-2.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Doble pechuga de pollo con lechuga, tomate, queso cheddar y salsas. Acompañado de papas y bebida."
     },
@@ -22,7 +22,7 @@
         "precio": "$5.100",
         "signo": "Sandwich",
         "foto": "https://github.com/user-attachments/assets/2a2f1446-d402-4250-9ec6-390e80422d75",
-        "fotos": ["lata.jpg", "papas.jpg"],
+        "fotos": ["lata.jpg", "papas.jpg", "San-1.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "Pechuga de pollo con pepinillos, salsa especial y mayonesa. Acompañado de papas y bebida."
     },
