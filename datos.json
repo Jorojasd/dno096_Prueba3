@@ -1,0 +1,108 @@
+[[
+    {
+        "nombre": "Sandwich 3",
+        "precio": "$5.900",
+        "signo": "Combo Sandwich",
+        "foto": "https://github.com/user-attachments/assets/8d980481-5845-460d-9c2a-5b0a7286ff92",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "github": "https://github.com/JorojasD",
+        "descr": "Pechuga de pollo con queso cheddar, cebolla crispy, tocino y salsa bbq. Acompañado de papas y bebida."
+    },
+    {
+        "nombre": "Sandwich 2",
+        "precio": "$4.500",
+        "signo": "Combo Sandwich",
+        "foto": "https://github.com/user-attachments/assets/ff6652a6-a157-46c4-8c14-02f1d31b08e8",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "github": "https://github.com/JorojasD",
+        "descr": "Doble pechuga de pollo con lechuga, tomate, queso cheddar y salsas. Acompañado de papas y bebida."
+    },
+    {
+        "nombre": "Sandwich 1",
+        "precio": "$5.100",
+        "signo": "Combo Sandwich",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/2a2f1446-d402-4250-9ec6-390e80422d75",
+        "github": "https://github.com/JorojasD",
+        "descr": "Pechuga de pollo con pepinillos, salsa especial y mayonesa. Acompañado de papas y bebida."
+    },
+    {
+        "nombre": "Combo Presas",
+        "precio": "$10.990",
+        "signo": "Baldes",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/5ab83c57-943f-45ef-b90a-8ac6d24b29ab",
+        "github": "https://github.com/JorojasD",
+        "descr": "8 Presas de pollo con 3 bebidas, papas y empanadas."
+    },
+    {
+        "nombre": "Combo Popcorn",
+        "precio": "$6.500",
+        "signo": "Baldes",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/6ea2eb7a-708b-43ec-8218-989fd3488ade",
+        "github": "https://github.com/JorojasD",
+        "descr": "Trozos de pechuga de pollo apanados acompados de dos papas y bebidas."
+    },
+    {
+        "nombre": "Combo Alitas",
+        "precio": "$9.990",
+        "signo": "Baldes",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/9e59761f-b2b0-4dee-96fe-077c0e58ea5b",
+        "github": "https://github.com/JorojasD",
+        "descr": "8 Alitas de pollo con dos bebidas y papas."
+
+    },
+    {
+        "nombre": "Combo Alitas + Strips",
+        "precio": "$12.990",
+        "signo": "Baldes",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/b97b8f92-2b5b-4c71-9e30-6fa5477ef8ec",
+        "github": "https://github.com/JorojasD",
+        "descr": "4 Alitas + 4 Strips con dos bebidas y papas."
+    },
+    {
+        "nombre": "Combo Strips",
+        "precio": "$11.590",
+        "signo": "Strips",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/b8120268-f0f2-4d8f-acc7-4ab9ccd9b6c6",
+        "github": "https://github.com/JorojasD",
+        "descr": "12 Chiken Strips con papas y empanadas"
+    },    
+    {
+        "nombre": "Combo Strips + Presas + Alitas",
+        "precio": "$17.890",
+        "signo": "Presas",
+        "fotos": ["lata.jpg", "papas.jpg"],
+        "foto": "https://github.com/user-attachments/assets/af2b2537-da5d-4ab8-a3a8-0dd5f2fe7970",
+        "github": "https://github.com/JorojasD",
+        "descr": "6 Chiken Strips + 5 Presas + 4 Alitas acompañadas de 4 bebidas, papas y empanadas."
+    },
+    {
+        "nombre": "Papas Fritas",
+        "precio": "$1.100",
+        "signo": "Agregados",
+        "foto": "https://github.com/user-attachments/assets/29450809-df83-40b7-a064-58903810e127",
+        "github": "https://github.com/JorojasD",
+        "descr": "Porcion de papas individual"
+    },
+    {
+        "nombre": "Helado",
+        "precio": "$2.590",
+        "signo": "Agregados",
+        "foto": "https://github.com/user-attachments/assets/f6c53d85-0178-4825-b744-e7f803954c9c",
+        "github": "https://github.com/JorojasD",
+        "descr": "Helado de crema con salsa de manjar y trozos de crocantes galletas"
+    },
+    {
+        "nombre": "Popcorn",
+        "precio": "$1.790",
+        "signo": "Agregados",
+        "foto": "https://github.com/user-attachments/assets/6ea2eb7a-708b-43ec-8218-989fd3488ade",
+        "github": "https://github.com/JorojasD",
+        "descr": "Trozos de pechuga de pollo apanada"
+    }
+] 
